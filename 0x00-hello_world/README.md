@@ -1,1 +1,1 @@
-a script that compiles C but does not link
+A program that compiles without link
