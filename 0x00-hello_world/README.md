@@ -1,1 +1,1 @@
-A script that compiles c file
+A script that generates the assemble code
