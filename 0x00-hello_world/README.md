@@ -1,1 +1,1 @@
-write a C program that prints
+A program to print grammar
