@@ -1,1 +1,1 @@
-A C program that prints exactly that piece of art
+a script that compiles C but does not link
