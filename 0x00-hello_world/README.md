@@ -1,1 +1,1 @@
-my first C-program
+A script that compiles c file
