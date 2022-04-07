@@ -1,1 +1,1 @@
-A script that generates the assemble code
+a script to compile and create an executable
