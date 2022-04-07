@@ -1,1 +1,1 @@
-a script to compile and create an executable
+write a C program that prints
