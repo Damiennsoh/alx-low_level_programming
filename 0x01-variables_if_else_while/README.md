@@ -1,1 +1,1 @@
-A program to print both alphabets both in lower and upper case
+A program to print alphabets excet e and q
