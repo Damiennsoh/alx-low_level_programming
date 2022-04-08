@@ -1,1 +1,1 @@
-printing lower case in reverse
+printing in base 16 in lower case
