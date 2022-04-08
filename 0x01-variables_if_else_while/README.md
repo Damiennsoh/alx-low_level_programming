@@ -1,1 +1,1 @@
-C program
+A program that print alphabet in lower case
