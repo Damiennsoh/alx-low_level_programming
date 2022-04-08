@@ -1,1 +1,1 @@
-printing in base 16 in lower case
+print all possible combinations of single-digit numbers
