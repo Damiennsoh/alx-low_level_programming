@@ -1,1 +1,1 @@
-A program to print alphabets excet e and q
+print all single digit from base 10
