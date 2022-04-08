@@ -1,1 +1,1 @@
-print all single digit from base 10
+printing single digits of base 10 wiht a new line
