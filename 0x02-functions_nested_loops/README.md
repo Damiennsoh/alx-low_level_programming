@@ -1,1 +1,1 @@
-print alphabet 10 times in lowercases
+a function to check for lowercase
