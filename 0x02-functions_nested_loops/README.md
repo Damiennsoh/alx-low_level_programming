@@ -1,1 +1,1 @@
-print in lower cases
+print alphabet 10 times in lowercases
