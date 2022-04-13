@@ -1,1 +1,1 @@
-a funtion that computes
+a function that prints every minute
