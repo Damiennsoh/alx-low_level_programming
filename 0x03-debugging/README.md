@@ -1,1 +1,1 @@
-debuging begins
+debugging
