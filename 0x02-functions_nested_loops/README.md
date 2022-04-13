@@ -1,1 +1,1 @@
-prints the sign of a number
+a funtion that computes
