@@ -1,1 +1,1 @@
-adding two integers
+All natural numbers
