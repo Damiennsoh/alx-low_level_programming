@@ -1,1 +1,1 @@
-All natural numbers
+printing n times
