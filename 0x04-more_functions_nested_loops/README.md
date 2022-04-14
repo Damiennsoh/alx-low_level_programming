@@ -1,1 +1,1 @@
-uppercase checks
+checks digit
