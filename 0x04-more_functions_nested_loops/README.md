@@ -1,1 +1,1 @@
-multiplies two integers
+prints numbers
