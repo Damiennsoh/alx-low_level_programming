@@ -1,1 +1,1 @@
-checks for uppercase character
+multiplies two integers
