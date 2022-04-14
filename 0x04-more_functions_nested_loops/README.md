@@ -1,1 +1,1 @@
-prints from 0 to 100
+prints a triangle
