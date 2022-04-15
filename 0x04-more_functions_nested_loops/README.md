@@ -1,1 +1,1 @@
-prints the largest prime factor
+print an integer
