@@ -1,1 +1,1 @@
-main.h header file
+copies a string
