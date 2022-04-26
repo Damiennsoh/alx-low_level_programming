@@ -1,1 +1,1 @@
-more tasks on pointers and 2D arrays
+fill memory with constant
