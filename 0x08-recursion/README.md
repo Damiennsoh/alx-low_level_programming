@@ -1,1 +1,1 @@
-returns the factorial of a given number
+return the lenth of a string
