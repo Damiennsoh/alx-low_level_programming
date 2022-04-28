@@ -1,1 +1,1 @@
-prints string in reverse
+returns the factorial of a given number
