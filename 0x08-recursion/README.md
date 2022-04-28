@@ -1,1 +1,1 @@
-square of a number
+check for prime for number
