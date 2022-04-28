@@ -1,1 +1,1 @@
-return the value of x
+square of a number
