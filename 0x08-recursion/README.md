@@ -1,1 +1,1 @@
-return the lenth of a string
+return the value of x
