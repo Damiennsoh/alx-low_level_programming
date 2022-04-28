@@ -1,1 +1,1 @@
-return integer
+compare two strings
