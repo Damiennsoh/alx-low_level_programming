@@ -1,1 +1,1 @@
-check for prime for number
+return integer
