@@ -1,0 +1,1 @@
+Allocates a memory
