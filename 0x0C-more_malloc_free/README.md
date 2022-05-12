@@ -1,1 +1,1 @@
-My readme
+multiplies two positive integers
